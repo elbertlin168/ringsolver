@@ -6,3 +6,4 @@ Basic solver for ring puzzles in Paper Mario: The Origami King. Depth-first sear
 
 - Allow solves for puzzles with non-multiple of 4 number of enemies
 - Prune symmetrical moves, other optimizations
+- Allow different board sizes
